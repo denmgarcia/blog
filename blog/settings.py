@@ -1,6 +1,7 @@
 from configurations import Configuration, values
 import os
 
+SECRET_KEY = '656565656sdfsdf21sd2fsd5f"
 
 class Dev(Configuration):
 	TIME_ZONE = 'Asia/Manila'
